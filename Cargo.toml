@@ -1,0 +1,10 @@
+[package]
+name = "day_9"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+aoc_input_manager = {path= "/home/kirby/Desktop/Coding/Rust/Advent of Code/aoc_input_manager/"}
+color-eyre = "0.6.2"
